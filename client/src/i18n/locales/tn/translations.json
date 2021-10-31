@@ -1,0 +1,16 @@
+{
+    "aadhaarInput": "Enter Aadhaar Number",
+    "aadhaarPlaceholder": "Enter 12 Digit Aadhaar",
+    "captchaInput": "Enter Captcha",
+    "captchaPlaceholder": "Enter the text in the picture",
+    "login" : "Login",
+    "generateOTP" : "Generate OTP",
+    "enterOTP1" : "Enter OTP",
+    "enterOTP2" : "Enter One Time Password",
+    "verifyOTP" : "Verify OTP",
+    "dashboard" : "Dashboard",
+    "addressChange" : "Request For Address Change",
+    "myRequests" : "My Requests",
+    "requestHistory": "Request History"
+
+  }

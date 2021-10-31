@@ -1,0 +1,25 @@
+{
+  "name": "webpush",
+  "version": "1.0.0",
+  "description": "Application to try out web push notifications",
+  "proxy": "http://localhost:5000",
+  "main": "server.js",
+  "dependencies": {
+    "@cloudflare/zkp-ecdsa": "^0.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "isolation-forest": "0.0.9",
+    "merkletreejs": "^0.2.24",
+    "mongoose": "^6.0.12",
+    "snarkjs": "^0.4.10",
+    "spam-detection": "^1.0.3",
+    "web-push": "^3.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

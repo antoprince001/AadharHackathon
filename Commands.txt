@@ -1,0 +1,9 @@
+./node_modules/.bin/web-push generate-vapid-keys
+
+Public :
+
+BILoU2Xka86C7qfvtCwTCCq2v-a6pLSgfovINRNkpOT3lnly7mz2pNObxDT6SIUV0mOndR9akd2eoueQk20l4rc
+
+Private:
+
+R7ID8vJ2hmD_K7PKz27YCqowVrYtw-tzwdFpyQ8YbkI
